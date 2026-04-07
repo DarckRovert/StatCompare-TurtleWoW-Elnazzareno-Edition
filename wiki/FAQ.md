@@ -1,18 +1,19 @@
-# ❓ Wiki: FAQ [El Séquito del Terror] — StatCompare
+﻿# â“ Wiki: FAQ [El SÃ©quito del Terror] â€” StatCompare
 
-Preguntas frecuentes y resolución de problemas técnicos para la visualización de estadísticas v9.4+.
+Preguntas frecuentes y resoluciÃ³n de problemas tÃ©cnicos para la visualizaciÃ³n de estadÃ­sticas v9.4+.
 
-## 🛠️ Error: Mis estadísticas no coinciden con las de BetterCharacterStats.
-- **Causa**: BCS y StatCompare v9.4.0 utilizan motores de cálculo diferentes pero sincronizados.
-- **Solución**: Asegúrate de que tienes instalada la versión sincronizada de BCS del clan Séquito. StatCompare v9.4 prioriza la información detectada en **Deep Link Analysis**, lo cual es más preciso para los bonos de sets de Turtle WoW.
+## ðŸ› ï¸ Error: Mis estadÃ­sticas no coinciden con las de BetterCharacterStats.
+- **Causa**: BCS y StatCompare v1.2.0 utilizan motores de cÃ¡lculo diferentes pero sincronizados.
+- **SoluciÃ³n**: AsegÃºrate de que tienes instalada la versiÃ³n sincronizada de BCS del clan SÃ©quito. StatCompare v9.4 prioriza la informaciÃ³n detectada en **Deep Link Analysis**, lo cual es mÃ¡s preciso para los bonos de sets de Turtle WoW.
 
-## ⚙️ ¿Cómo activo la visualización de estadísticas de otros jugadores?
-- **Control**: Al abrir el panel de **Inspeccionar** de cualquier jugador, StatCompare inyectará automáticamente una pestaña lateral con sus estadísticas calculadas. Esto permite ver su Crítico, Hit y Daño con la precisión del clan Diamond Tier.
+## âš™ï¸ Â¿CÃ³mo activo la visualizaciÃ³n de estadÃ­sticas de otros jugadores?
+- **Control**: Al abrir el panel de **Inspeccionar** de cualquier jugador, StatCompare inyectarÃ¡ automÃ¡ticamente una pestaÃ±a lateral con sus estadÃ­sticas calculadas. Esto permite ver su CrÃ­tico, Hit y DaÃ±o con la precisiÃ³n del clan Diamond Tier.
 
-## ⚡ ¿Por qué no veo mis estadísticas al pulsar 'C'?
-**Estado**: ✅ Corrección en v9.4.0.
-- Hemos rediseñado la inyección visual para que no entre en conflicto con otros AddOns de marcos de personaje. Si no aparece, escribe `/statc` para resetear la posición de la interfaz del Séquito.
+## âš¡ Â¿Por quÃ© no veo mis estadÃ­sticas al pulsar 'C'?
+**Estado**: âœ… CorrecciÃ³n en v1.2.0.
+- Hemos rediseÃ±ado la inyecciÃ³n visual para que no entre en conflicto con otros AddOns de marcos de personaje. Si no aparece, escribe `/statc` para resetear la posiciÃ³n de la interfaz del SÃ©quito.
 
 ---
-© 2026 **DarckRovert** — El Séquito del Terror.
-*Sincronización numérica para la conquista de Azeroth.*
+Â© 2026 **DarckRovert** â€” El SÃ©quito del Terror.
+*SincronizaciÃ³n numÃ©rica para la conquista de Azeroth.*
+

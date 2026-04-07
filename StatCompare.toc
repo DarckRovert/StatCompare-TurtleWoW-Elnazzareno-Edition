@@ -1,6 +1,6 @@
 ## Interface: 11200
 ## Title: |cffffffffStatCompare |r|cff00ccff[Séquito del Terror]|r
-## Version: 9.4.0 [Omni-Tier]
+## Version: 1.2.0 [Stat-Tier]
 ## Notes: View your character's stats; compare to others. Optimized for Turtle WoW.
 ## Author: El Séquito del Terror (DarckRovert)
 ## X-Spanish-Translation: DarckRovert

@@ -1,9 +1,9 @@
-# StatCompare — Advanced Stats Visualization (v9.4.0 [Omni-Tier]) 📊⚔️
+# StatCompare — Analytics (v1.2.0 [Stat-Tier]) 📈⚖️
 
 > **The definitive character stat analyzer for Turtle WoW.** Optimizado para el clan **El Séquito del Terror** con soporte completo para estadísticas ocultas (Bonus Damage, Crit, Hit) y una interfaz Apex-Tier reconstruida por **DarckRovert**.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
-[![Version](https://img.shields.io/badge/version-v9.4.0--Omni--Tier-blue)](./CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-v1.2.0--Stat--Tier-blue)](./CHANGELOG.md)
 [![World of Warcraft](https://img.shields.io/badge/WoW-1.12.1--Turtle-orange)](https://turtle-wow.org)
 [![Support](https://img.shields.io/badge/Support-Ko--fi-blue)](https://ko-fi.com/darckrovert)
 
