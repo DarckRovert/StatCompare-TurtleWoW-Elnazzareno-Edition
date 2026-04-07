@@ -1,19 +1,35 @@
 ---
-name: Bug Report (SC)
-about: Reporte de errores en el cálculo de estadísticas
-title: '[BUG] '
-labels: bug
-assignees: DarckRovert
+name: "🐞 Bug Report — Advanced Stats Visualization (StatCompare)"
+about: "Reporta un error técnico en StatCompare v9.4.0+"
+title: "[BUG] Descripción breve del problema"
+labels: ["bug", "stat-error"]
+assignees: darckrovert
+
 ---
 
-**Descripción**
-Explica qué estadística se calcula mal.
+## 📝 Descripción del Problema
+Describe de manera directa y técnica qué anomalía presenta la visualización de estadísticas.
 
-**Item/Buff Afectado**
-Enumera el equipo o beneficio que no se está sumando correctamente.
+## 🚀 Pasos para Reproducir
+1.  Equipar el objeto: [ej: Staff of Dominance].
+2.  Abrir el panel de: [ej: Personaje (C) / Inspeccionar].
+3.  Observar el fallo visual o lógico: [ej: El Crítico de Fuego no se suma correctamente].
 
-**Estadística Esperada**
-¿Cuál debería ser el valor real?
+## 📊 Entorno Numérico
+- **Versión de StatCompare**: [9.4.0 Omni-Tier]
+- **Atributo Afectado**: [ej: Spell Power, Crit, Hit]
+- **AddOns en conflicto**: [ej: BetterCharacterStats, pfUI]
 
-**Log de Error**
-Copia aquí cualquier error de Lua.
+## 📁 Logs (Stat Logger)
+Pega el error LUA completo.
+
+```lua
+-- PEGA EL ERROR AQUÍ
+```
+
+## 📸 Evidencia Visual
+Adjunta capturas si el problema es de renderizado de paneles extra o etiquetas de atributos Diamond Tier.
+
+---
+© 2026 **DarckRovert** — El Séquito del Terror.
+*Sincronización numérica para la conquista de Azeroth.*
