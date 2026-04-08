@@ -35,12 +35,12 @@ Es un sistema integral de visualización de estadísticas que expande el panel d
 
 ## 🏗️ Suite de Documentación (Wiki)
 
-Domina tus números en nuestra base de conocimientos:
+Domina tus números en nuestra base de conocimientos oficial:
 
-- 📐 **[Arquitectura de Atributos](./wiki/Architecture.md)**: Cómo gestionamos StatScanner.lua.
-- 🛠️ **[Guía de API de Estadísticas](./wiki/API_Guide.md)**: Hooks para WCS_Brain & EquipCompare.
-- ❓ **[FAQ de Comparativa](./wiki/FAQ.md)**: ¿Por qué mi crítico no coincide con el juego?
-- 📖 **[Manual del Analista](./wiki/User_Manual.md)**: Guía de configuración de la interfaz.
+- 🏰 **[Arquitectura de Atributos](https://github.com/DarckRovert/StatCompare-TurtleWoW-Elnazzareno-Edition/wiki/Arquitectura-(Technical))**: Cómo gestionamos StatScanner.lua.
+- 🛠️ **[Guía de API de Estadísticas](https://github.com/DarckRovert/StatCompare-TurtleWoW-Elnazzareno-Edition/wiki/Guía-de-API)**: Hooks para WCS_Brain & EquipCompare.
+- ❓ **[FAQ de Comparativa](https://github.com/DarckRovert/StatCompare-TurtleWoW-Elnazzareno-Edition/wiki/FAQ)**: ¿Por qué mi crítico no coincide con el juego?
+- 📖 **[Manual del Analista](https://github.com/DarckRovert/StatCompare-TurtleWoW-Elnazzareno-Edition/wiki/Manual-de-Usuario)**: Guía de configuración de la interfaz.
 
 ## 🚀 Despliegue Rápido (Stat-Flow)
 
